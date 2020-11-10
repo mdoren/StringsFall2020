@@ -1,4 +1,10 @@
 fun main(){
+    //Make a variable (Int) that holds the player's score, is added to whenever answer is right (score)
+    //Use printlns to ask the user a question
+    //Make a val that holds the correct answer, as well as a variable that is the player's answer
+    //Use .compareTo to compare the player's answer with the correct one, I made it ignore case but still formatted the answers anyways
+    //If the answers match, add one to score
+    //Print results at the end
     var score = 0
     println("Pokemon Emerald Quiz!")
     println("Question One: What type of berry is only found on Mirage Island?")
